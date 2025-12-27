@@ -1,0 +1,18 @@
+{
+  "name": "chat-frontend",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev -p 3000",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.1",
+    "bcryptjs": "^2.4.3",
+    "cookie": "^0.6.0",
+    "jsonwebtoken": "^9.0.2",
+    "next": "^14.2.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}

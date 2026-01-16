@@ -404,7 +404,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Arham Jain**
 - GitHub: [@ArhammJain](https://github.com/ArhammJain)
-- Instagram: [arham.builds](https://instagram.com/arham.builds)
+- Instagram: [Arhm.in](https://instagram.com/arhm.in)
 
 <h2>⭐ Star History</h2>
 

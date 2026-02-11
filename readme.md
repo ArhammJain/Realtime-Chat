@@ -413,4 +413,4 @@ If you find this project useful, please consider giving it a star! ⭐
 ---
 
 <p align="center">Built with care to understand real time systems from the ground up.</p>
-<p align="center">Follow @arham.builds on Instagram</p>
+<p align="center">Follow @arhm.in on Instagram</p>

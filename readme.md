@@ -1,4 +1,4 @@
-<h1 align="center" id="title">Real-Time Chat Application</h1>
+<h1 align="center" id="title">Real Time Chat Application</h1>
 
 <p align="center"><img src="https://socialify.git.ci/ArhammJain/Realtime-Chat/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Solid&stargazers=1&theme=Dark" alt="Realtime-Chat" width="640" height="320" /></p>
 
@@ -16,7 +16,7 @@
 
 <h2>🚀 Demo</h2>
 
-[Project Preview](https://realtimechatbyarham.vercel.app/login) <!-- Replace with your actual demo link -->
+[Project Preview](realtimechatbyarham.vercel.app/login) <!-- Replace with your actual demo link -->
 
 <h2>✨ Key Features</h2>
 
@@ -389,9 +389,6 @@ If you're improving the architecture, I'm all ears.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request with a detailed description
 
-<h2>📝 License</h2>
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 <h2>🙏 Acknowledgments</h2>
 
@@ -404,7 +401,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Arham Jain**
 - GitHub: [@ArhammJain](https://github.com/ArhammJain)
-- Instagram: [Arhm.in](https://instagram.com/arhm.in)
+- Instagram: [V5Arham](https://instagram.com/v5arham)
 
 <h2>⭐ Star History</h2>
 
